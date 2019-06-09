@@ -21,6 +21,7 @@ public class UserController {
      * 测试查找
      * @return
      */
+    @CrossOrigin
     @GetMapping("/aaa")
     public String findUser(){
         String id="01";
