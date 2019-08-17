@@ -70,6 +70,11 @@
 			<version>${fastjson.version}</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.github.livesense</groupId>
+			<artifactId>org.liveSense.fragment.sun.misc</artifactId>
+			<version>1.0.5</version>
+		</dependency>
 
 	</dependencies>
 
